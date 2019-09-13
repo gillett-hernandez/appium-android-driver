@@ -35,7 +35,7 @@
     "bootstrap/bin/AppiumBootstrap.jar"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.6.0",
     "appium-adb": "^7.13.0",
     "appium-base-driver": "^4.0.0",
     "appium-chromedriver": "^4.13.0",
