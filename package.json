@@ -41,7 +41,7 @@
     "appium-chromedriver": "^4.13.0",
     "appium-support": "^2.25.0",
     "asyncbox": "^2.0.4",
-    "bluebird": "^3.4.7",
+    "bluebird": "^3.7.1",
     "io.appium.settings": "^2.10.0",
     "jimp": "^0.8.0",
     "lodash": "^4.17.4",
