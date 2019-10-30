@@ -50,7 +50,7 @@
     "portfinder": "^1.0.6",
     "shared-preferences-builder": "^0.0.4",
     "shell-quote": "^1.6.1",
-    "source-map-support": "^0.5.5",
+    "source-map-support": "0.5.15",
     "teen_process": "^1.9.0",
     "ws": "^7.0.0",
     "yargs": "^14.0.0"
